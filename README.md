@@ -121,3 +121,9 @@ Licence 3 Génie Informatique
 🔗 LinkedIn : [Heraba Touré](https://www.linkedin.com/in/heraba-toure/)
 
 💻 GitHub : [@herabatoure](https://github.com/herabatoure)
+
+## 📊 GitHub Stats
+
+![Heraba's GitHub stats](https://github-readme-stats.vercel.app/api?username=herabatoure&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=herabatoure&layout=compact&theme=tokyonight)
